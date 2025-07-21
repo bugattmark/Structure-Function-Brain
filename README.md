@@ -1,8 +1,6 @@
-# Structure-Function-Brain
+# Structure-Function-Brain, [Paper](./t1_fmri_paper.pdf)
 
 tl;dr: I’m teaching a machine learning model to match a person’s brain structure (T1 MRI) with their brain activity over time (fMRI). T1 and fMRI scans from the same person get paired together in a very high dimensional mathematical space, while scans from different people stay apart, so we can one day predict cognitive or clinical traits using only a basic MRI.
-
-Written paper in 
 
 Next iteration:
 - Scale up with a lot more data
