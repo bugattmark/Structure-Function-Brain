@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Notebook runtime files
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# IDE/editor files
+.vscode/
+*.swp
+
+# ML model and data files
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+*.npz
+*.npy
+
+# Large folders (optional)
+data/
+outputs/
+checkpoints/
